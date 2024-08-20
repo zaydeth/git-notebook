@@ -50,6 +50,7 @@ GitHub es una plataforma de desarrollo colaborativo de software para alojar proy
 - [GIT Grep y Log](#git-grep-y-log)
 - [Submodulos](#submodulos)
 
+
 ### Sistemas de Control de versiones 📝
 
 
@@ -160,7 +161,7 @@ Una petición de cambios es una forma de solicitar que otro colaborador revise y
 
 El merge es el proceso de fusionar dos ramas en Git, normalmente la rama principal y una rama secundaria. Si no hay conflictos, Git realizará el merge de forma automática. Pero si hay conflictos, Git pedirá al usuario que resuelva los conflictos manualmente antes de completar el merge. La resolución de conflictos es una parte importante del proceso de merge y puede ser un poco complicada en algunos casos. Por lo tanto, es recomendable asegurarse de tener una buena comprensión de las herramientas de Git y de las buenas prácticas para evitar conflictos innecesarios.
 
-### Gestión de ramas
+### Gestión de ramas🎄
 
 La gestión de ramas en Git permite trabajar en diferentes características de forma aislada sin interferir entre ellas. Esto se logra a través de la creación, eliminación, combinación y comparación de ramas. Además, la funcionalidad de etiquetado permite identificar y etiquetar versiones específicas del software. Para conocer las ramas existentes y la rama de trabajo local se puede utilizar el comando **`git branch`** el cual lo imprime en línea de comando.
 
